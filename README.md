@@ -1,9 +1,9 @@
 # <b>Filmspoter</b>
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+🅳🅷🅰️🅽🆄🆂🅷!;created+by+Filmspoter!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+other+features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝕭𝖍𝖊𝖊𝖘𝖍𝖒𝖆2.0!;created+by+𝚃𝙶-𝖕𝖚𝖘𝖍𝖕𝖆𝖗𝖊𝖏𝖚!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+other+features!)
  ⚚ ℭ𝔩𝔦𝔠𝔨 𝔗𝔥𝔢 ℑ𝔪𝔞𝔤𝔢 𝔗𝔬 𝔇𝔢𝔭𝔩𝔬𝔶 𝔜𝔬𝔲𝔯 𝔄𝔭𝔭 ⚚
 
 
-[![Deploy](https://telegra.ph/file/ece048707d9926b776309.jpg)](https://heroku.com/deploy?template=https://github.com/Cinemaguru/Dhanush_2.0)
+[![Deploy](https://telegra.ph/file/030d96be7b1e03eb0e0e2.jpg)](https://heroku.com/deploy?template=https://github.com/TG-chembanreju/Bheeshma_2.0)
 
 - [x] Auto Filter
 - [x] Manuel Filter
