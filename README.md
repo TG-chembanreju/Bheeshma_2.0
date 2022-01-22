@@ -1,4 +1,4 @@
-# <b>Filmspoter</b>
+# <b>𝚃𝙶-𝕻𝖚𝖘𝖍𝖕𝖆𝕽𝖊𝖏𝖚</b>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝕭𝖍𝖊𝖊𝖘𝖍𝖒𝖆2.0!;created+by+𝚃𝙶-𝖕𝖚𝖘𝖍𝖕𝖆𝖗𝖊𝖏𝖚!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+other+features!)
  ⚚ ℭ𝔩𝔦𝔠𝔨 𝔗𝔥𝔢 ℑ𝔪𝔞𝔤𝔢 𝔗𝔬 𝔇𝔢𝔭𝔩𝔬𝔶 𝔜𝔬𝔲𝔯 𝔄𝔭𝔭 ⚚
 
