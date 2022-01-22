@@ -18,8 +18,8 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🔊Channel🔊', url='https://t.me/Filmspoterchannel'),
-                InlineKeyboardButton('💬Group💬', url='https://t.me/Filmspoters')
+                InlineKeyboardButton('📤Channel📤', url='https://t.me/updatechannel_forcrime'),
+                InlineKeyboardButton('💬Group💬', url='https://t.me/crimebhavani4')
             ],
             [
                 InlineKeyboardButton('🅷🅴🅻🅿️', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -40,13 +40,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('🔍Search🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('🔊Channel🔊', url='https://t.me/Filmspoterchannel'),
-            InlineKeyboardButton('💬Group💬', url='https://t.me/Filmspoters')
+            InlineKeyboardButton('📤Channel📤', url='https://t.me/updatechannel_forcrime'),
+            InlineKeyboardButton('💬Group💬', url='https://t.me/crimebhavani4')
             ],[
             InlineKeyboardButton('🛠Help🛠', callback_data='help'),
             InlineKeyboardButton('😎About😎', callback_data='about')
             ],[
-            InlineKeyboardButton('🧑‍💻Dev🧑‍💻', url='https://t.me/filmspoteradmin')
+            InlineKeyboardButton('🧑‍💻Dev🧑‍💻', url='https://t.me/pushpa_reju')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -65,7 +65,7 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "📢Join Now📢", url='https://t.me/Filmspoterchannel'
+                    "📢Join Now📢", url='https://t.me/crimebhavani4'
                 )
             ]
         ]
@@ -83,13 +83,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('🔍Search🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('🔊Channel🔊', url='https://t.me/Filmspoterchannel'),
-            InlineKeyboardButton('💬Group💬', url='https://t.me/Filmspoters')
+            InlineKeyboardButton('📤Channel📤', url='https://t.me/updatechannel_forcrime'),
+            InlineKeyboardButton('💬Group💬', url='https://t.me/crimebhavani4')
             ],[
             InlineKeyboardButton('🛠Help🛠', callback_data='help'),
             InlineKeyboardButton('😎About😎', callback_data='about')
             ],[
-            InlineKeyboardButton('🧑‍💻Dev🧑‍💻', url='https://t.me/filmspoteradmin')
+            InlineKeyboardButton('🧑‍💻Dev🧑‍💻', url='https://t.me/pushpa_reju')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -166,7 +166,7 @@ async def delete(bot, message):
     """Delete file from database"""
     reply = message.reply_to_message
     if reply and reply.media:
-        msg = await message.reply("🙈𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐀𝐥𝐥....🙈", quote=True)
+        msg = await message.reply("🙈𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐀𝐥𝐥 𝕱𝖎𝖑𝖊𝖘....🙈", quote=True)
     else:
         await message.reply('Reply to file with /delete which you want to delete', quote=True)
         return
