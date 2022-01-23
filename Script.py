@@ -17,8 +17,8 @@ class script(object):
 ║┣⪼ 𝙱𝚄𝙸𝙻𝚃 𝚂𝚃𝙰𝚃𝚂 - v1.0.2 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━⏤͟͟͞͞★ ╚══════════════════⪼𒆜"""
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://t.me/briyanikada"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- 𝚈𝙾𝚄 𝙼𝙾𝚃𝙷𝙴𝚁 𝙵𝚄𝙲𝙺𝙴𝚁 𝙸𝙰𝙼 𝙽𝙾𝚃 𝙰 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴🤭. 
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://t.me/crimebhavanireju"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
 <a href="https://t.me/pushpa_reju"> 𝑻𝑬𝑨𝑴 𝑪𝑹𝑰𝑴𝑬 </a>"""
