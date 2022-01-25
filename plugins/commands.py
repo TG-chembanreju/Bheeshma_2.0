@@ -43,8 +43,8 @@ async def start(client, message):
             InlineKeyboardButton('📤Channel📤', url='https://t.me/updatechannel_forcrime'),
             InlineKeyboardButton('💬Group💬', url='https://t.me/crimebhavanireju')
             ],[
-            InlineKeyboardButton('🛠Help🛠', callback_data='help'),
-            InlineKeyboardButton('😎About😎', callback_data='about')
+            InlineKeyboardButton('𝗛𝗲𝗹𝗽', callback_data='help'),
+            InlineKeyboardButton('😎𝗔𝗯𝗼𝘂𝘁😎', callback_data='about')
             ],[
             InlineKeyboardButton('🧑‍💻Dev🧑‍💻', url='https://t.me/pushpa_reju')
             ]]
@@ -86,8 +86,8 @@ async def start(client, message):
             InlineKeyboardButton('📤Channel📤', url='https://t.me/updatechannel_forcrime'),
             InlineKeyboardButton('💬Group💬', url='https://t.me/crimebhavanireju')
             ],[
-            InlineKeyboardButton('🛠Help🛠', callback_data='help'),
-            InlineKeyboardButton('😎About😎', callback_data='about')
+            InlineKeyboardButton('🛠𝗛𝗲𝗹𝗽🛠', callback_data='help'),
+            InlineKeyboardButton('😎𝗔𝗯𝗼𝘂𝘁😎', callback_data='about')
             ],[
             InlineKeyboardButton('🧑‍💻Dev🧑‍💻', url='https://t.me/pushpa_reju')
             ]]
@@ -166,7 +166,7 @@ async def delete(bot, message):
     """Delete file from database"""
     reply = message.reply_to_message
     if reply and reply.media:
-        msg = await message.reply("🙈𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐀𝐥𝐥 𝙵𝙸𝙻𝙴𝚂....🙈", quote=True)
+        msg = await message.reply("🙈𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐀𝐥𝐥 𝐅𝐢𝐥𝐞𝐬....🙈", quote=True)
     else:
         await message.reply('Reply to file with /delete which you want to delete', quote=True)
         return
