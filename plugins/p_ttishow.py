@@ -38,8 +38,8 @@ async def save_group(bot, message):
             return
         buttons = [
             [
-                InlineKeyboardButton('🔊Channel🔊', url='https://t.me/Filmspoterchannel'),
-                InlineKeyboardButton('💬Group💬', url='https://t.me/Filmspoters')
+                InlineKeyboardButton('🔊Channel🔊', url='https://t.me/updatechannel_forcrime'),
+                InlineKeyboardButton('💬Group💬', url='https://t.me/crimebhavanireju')
             ],
             [
                 InlineKeyboardButton('🅷🅴🅻🅿️', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -56,7 +56,7 @@ async def save_group(bot, message):
                     await (temp.MELCOW['welcome']).delete()
                 except:
                     pass
-            temp.MELCOW['welcome'] = await message.reply(f"<b>𝙷𝙴𝚈♥️ {u.mention}⚡ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 {message.chat.title}!</b>")
+            temp.MELCOW['welcome'] = await message.reply(f"<b>𝙷𝙴𝚈♥️ {u.mention}⚡ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 {message.chat.title}!</b>")𝙿𝙻𝚉 𝙳𝙾𝙽𝚃 𝚂𝙿𝙰𝙼 𝙳𝙾𝙽𝚃 𝚄𝚂𝙴 𝙿𝙾𝚁𝙽 𝙰𝙽𝙳 𝙰𝙱𝚄𝚂𝙴..... 𝙰𝚂𝙺 𝙸𝙼𝙱𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 𝚆𝙸𝚃𝙷 𝙲𝙾𝚁𝚁𝙴𝙲𝚃 𝚂𝙿𝙴𝙻𝙻𝙸𝙽𝙶
 
 
 @Client.on_message(filters.command('leave') & filters.user(ADMINS))
