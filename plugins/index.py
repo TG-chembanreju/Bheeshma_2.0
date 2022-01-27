@@ -27,7 +27,7 @@ async def index_files(bot, query):
         return await query.answer('Wait until previous process complete.', show_alert=True)
     msg = query.message
 
-    await query.answer('𝐇𝐚𝐜𝐤𝐢𝐧𝐠...🙈', show_alert=True)
+    await query.answer('𝙴𝙻𝙻𝙰 𝙵𝙸𝙻𝚂𝚄𝙼 𝙷𝙰𝙲𝙺 𝙲𝙷𝙴𝚈𝚈𝙰𝙼...🙈', show_alert=True)
     if int(from_user) not in ADMINS:
         await bot.send_message(int(from_user), f'Your Submission for indexing {chat} has been accepted by our moderators and will be added soon.', reply_to_message_id=int(lst_msg_id))
     await msg.edit(
