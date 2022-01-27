@@ -57,7 +57,7 @@ def a(client, message):
             #     m.edit("Exceeded 30mins cap")
             #     return
 
-            performer = f"[𝐋𝐚𝐥𝐥𝐮𝐬 𝐦𝐮𝐬𝐢𝐜𝐬]" 
+            performer = f"[𝐏𝐮𝐬𝐡𝐩𝐚𝐫𝐞𝐣𝐮 𝐌𝐮𝐬𝐢𝐜𝐬]" 
             thumb_name = f'thumb{message.message_id}.jpg'
             thumb = requests.get(thumbnail, allow_redirects=True)
             open(thumb_name, 'wb').write(thumb.content)
@@ -72,7 +72,7 @@ def a(client, message):
         )
         print(str(e))
         return
-    m.edit("`🎸𝐔𝐩𝐥𝐨𝐚𝐝𝐢𝐧𝐠.....💞𝐏𝐥𝐞𝐚𝐬𝐞 𝐰𝐚𝐢𝐭𝐞`")
+    m.edit("`🎸𝐈𝐩𝐩𝐨 𝐭𝐡𝐚𝐫𝐚𝐦 𝐰𝐚𝐢𝐭.....💞𝐏𝐥𝐞𝐚𝐬𝐞 𝐰𝐚𝐢𝐭𝐞`")
     try:
         with youtube_dl.YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
