@@ -37,6 +37,12 @@ async def give_filter(client,message):
 @Client.on_callback_query(filters.regex(r"^next"))
 async def next_page(bot, query):
 
+m=await bot.send_message(message.chat.id, "1")
+k=await m.edit("2")
+await k.edit("3")
+
+
+
     ident, req, key, offset = query.data.split("_")
     if int(req) not in [query.from_user.id, 0]:
         return await query.answer("😁 𝗛𝗲𝘆 𝗙𝗿𝗶𝗲𝗻𝗱,𝗣𝗹𝗲𝗮𝘀𝗲 𝗦𝗲𝗮𝗿𝗰𝗵 yourself 😁.", show_alert=True)
