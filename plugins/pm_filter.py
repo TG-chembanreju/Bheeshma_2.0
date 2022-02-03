@@ -37,9 +37,10 @@ async def give_filter(client,message):
 @Client.on_callback_query(filters.regex(r"^next"))
 async def next_page(bot, query):
 
-m=await bot.send_message(message.chat.id, "1")
-k=await m.edit("2")
-await k.edit("3")
+
+@Client.on_callback_query(filters.regex('close'))
+async def close(bot, query):
+   await query.message.delete()
 
 
 
