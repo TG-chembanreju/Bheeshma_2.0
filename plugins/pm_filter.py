@@ -400,15 +400,29 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('🔍Search🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('🔊Channel🔊', url='https://t.me/Filmspoterchannel'),
-            InlineKeyboardButton('💬Group💬', url='https://t.me/Filmspoters')
+            InlineKeyboardButton('𝕮𝖍𝖆𝖓𝖓𝖊𝖑♂️', url='https://t.me/updatechannel_forcrime'),
+            InlineKeyboardButton('🅶︎🆁︎🅾︎🆄︎🅿︎', url='https://t.me/crimebhavani4')
             ],[
             InlineKeyboardButton('🛠Help🛠', callback_data='help'),
             InlineKeyboardButton('😎About😎', callback_data='about')
             ],[
-            InlineKeyboardButton('🧑‍💻Dev🧑‍💻', url='https://t.me/filmspoteradmin')
+            InlineKeyboardButton('🧑‍💻Dev🧑‍💻', url='https://t.me/pushpa_Reju
+
+')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text="▢▢▢"
+        )
+        await query.message.edit_text(
+            text="▣▢▢"
+        )
+        await query.message.edit_text(
+            text="▣▣▢"
+        )
+        await query.message.edit_text(
+            text="▣▣▣"
+        )
         await query.message.edit_text(
             text=script.START_TXT.format(query.from_user.mention, temp.U_NAME, temp.B_NAME),
             disable_web_page_preview=True,
