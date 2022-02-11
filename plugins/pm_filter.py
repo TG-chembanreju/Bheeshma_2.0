@@ -406,7 +406,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🛠Help🛠', callback_data='help'),
             InlineKeyboardButton('😎About😎', callback_data='about')
             ],[
-            InlineKeyboardButton('🧑‍💻Dev🧑‍💻', url='https://t.me/pushpa_Reju
+            InlineKeyboardButton('🧑‍💻Dev🧑‍💻', url='https://t.me/pushpa_Reju')
 
 ')
         ]]
