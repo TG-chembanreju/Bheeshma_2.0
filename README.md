@@ -20,7 +20,7 @@
 
 
 
-<h3 align="center">🅲🅾️🅽🆃🅰️🅲🆃<img align="center" src="https://github.com/Cinemaguru/Dhanush_2.0/blob/main/assets/Handshake.gif" height="33px" /></h3>
+<h3 align="center">🅲🅾️🅽🆃🅰️🅲🆃<img align="center" src="https://github.com/Cinemauru/Dhanush_2.0/blob/main/assets/Handshake.gif" height="33px" /></h3>
 <p align="center">
 <a href="https://t.me/pushpa_reju"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
